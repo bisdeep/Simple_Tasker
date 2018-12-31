@@ -11,7 +11,7 @@ import static com.bisdeep.simpletodo.MainActivity.ITEM_POSITION;
 
 public class EditItemActivity extends AppCompatActivity {
 
-    //track edit text
+    
     EditText eItemText;
     //position of edited item in list
     int position;
